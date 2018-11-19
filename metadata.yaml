@@ -1,5 +1,8 @@
 _repo: Behold-this-Dreamer_58207
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58207-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Bartlett, Elizabeth
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '49768'
     url: http://www.gutenberg.org/2009/agents/49768
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58207#Behold-this-Dreamer
 gutenberg_issued: '2018-10-30'
 gutenberg_type: Text
 identifiers:
